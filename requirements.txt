@@ -1,6 +1,7 @@
 streamlit==1.41.0
 pillow>=10.4.0
 altair>=5.0.0
+plotly
 pandas
 numpy
 psycopg2-binary
